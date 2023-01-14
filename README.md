@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ckaltenbach904
-- 👀 I’m interested in DevOps, Networking etc.
+- 👋 Hi, I’m catharina kaltenbach
+- 👀 I’m interested in DevOps, Networking and GIS
 
 
 <!---
