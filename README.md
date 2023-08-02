@@ -1,5 +1,5 @@
 - 👋 Hi, I’m catharina kaltenbach
-- 👀 I’m interested in DevOps, Networking and GIS
+- 👀 I’m interested in DevOps and Cloud Native concepts
 
 
 <!---
