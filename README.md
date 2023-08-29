@@ -1,5 +1,6 @@
-- 👋 Hi, I’m catharina kaltenbach
+- 👋 Hi, I’m Catharina Kaltenbach
 - 👀 I’m interested in DevOps and Cloud Native concepts
+- Feel free to contact me via LinkedIn
 
 
 <!---
