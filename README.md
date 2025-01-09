@@ -1,10 +1,10 @@
 # Catharina Kaltenbach
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/catharina-kaltenbach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/catharina-kaltenbach-64688a15a/)
 
 ## 👋 Hi, I’m Catharina Kaltenbach
 - 👀 I’m interested in DevOps, Cloud Native concepts, and creating interactive web apps and one-page websites.
 - 🌱 I’m currently learning Kubernetes and Terraform.
-- 💬 Ask me about DevOps, Cloud Native, CI/CD, and web development.
+- 💬 still learning DevOps, Cloud Native, CI/CD, and web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/catharina-kaltenbach-64688a15a/)
 
 ## 🛠️ Skills and Technologies
