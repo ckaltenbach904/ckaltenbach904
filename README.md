@@ -1,5 +1,4 @@
-# Catharina Kaltenbach
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/catharina-kaltenbach-64688a15a/)
+
 
 ## 👋 Hi, I’m Catharina Kaltenbach
 - 👀 I’m interested in DevOps, Cloud Native concepts, and creating interactive web apps and one-page websites.
