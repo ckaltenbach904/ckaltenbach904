@@ -18,7 +18,8 @@
 - Description: A responsive and interactive web application for managing personal tasks.
 - Technologies: React, Node.js, MongoDB.
 
-### Project 2: [One-Page Website](https://github.com/ckaltenbach904/project2)
+### Project 2: [One-Page Website](https://github.com/ckaltenbach904/nang_thai)
+- https://nangthaimassage-nauheim.com/
 - Description: A sleek and modern one-page website for a local business.
 - Technologies: HTML, CSS, JavaScript.
 
