@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I’m Catharina Kaltenbach
+## 👋 Hi, I’m Catharina 
 - 👀 I’m interested in DevOps, Cloud Native concepts, and creating interactive web apps and one-page websites.
 - 🌱 I’m currently learning Kubernetes and Terraform.
 - 💬 still learning DevOps, Cloud Native, CI/CD, and web development.
