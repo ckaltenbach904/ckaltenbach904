@@ -7,7 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/catharina-kaltenbach-64688a15a/)
 
 ## 🛠️ Skills and Technologies
-- **Languages**: Python, JavaScript, HTML, CSS and CSS framework (bootstrap)
+- **Languages**: JavaScript, HTML, CSS and CSS framework (bootstrap)
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Vagrant etc.
 - **Cloud Providers**: AWS, Google Cloud Platform, Digital Ocean
 - **Web Development**: Vue.js, Node.js
