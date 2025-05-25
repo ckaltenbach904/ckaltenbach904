@@ -14,7 +14,7 @@
 - **I am certified ( CCNA, AWS Solutions Architect, CompTIA Linux+, Microsoft Azure, Kubernetes KCA and KCS )
 
 ## 📂 Projects and Portfolio
-### Project 1: [Interactive Web App](https://github.com/ckaltenbach904/project1)
+### Project 1: [Interactive Web App](https://menu-weather1.netlify.app/)
 - Description: A responsive and interactive web application for managing personal tasks.
 - Technologies: React, Node.js, MongoDB.
 
