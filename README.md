@@ -14,7 +14,7 @@
 - **I am certified ( CCNA, AWS Solutions Architect, CompTIA Linux+, Microsoft Azure, Kubernetes KCA and KCS )
 
 ## 📂 Projects and Portfolio
-### Project 1: [Interactive Web App](https://menu-weather1.netlify.app/)
+### Project 1: [Interactive Web App](/)
 - Description: A responsive and interactive web application for managing personal tasks.
 - Technologies: React, Node.js, MongoDB.
 
@@ -23,6 +23,10 @@
 - Description: A sleek and modern one-page website for a local business.
 - Technologies: HTML, CSS, JavaScript.
 
+### Project 3: React Apps (frontend) with Weather + Time + Menu Nav
+- https://menu-weather1.netlify.app/
+- Description: A sleek and modern multi-page website for a small imbiss
+- 
 ## 📢 Contact
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/catharina-kaltenbach) for any inquiries or collaborations.
 
