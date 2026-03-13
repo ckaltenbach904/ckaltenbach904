@@ -22,6 +22,7 @@
 - https://nangthaimassage-nauheim.com/
 - Description: A sleek and modern one-page website for a local business.
 - Technologies: HTML, CSS, JavaScript.
+- Secure Website by adding secure headers ( for netlify & local testing )
 
 ### Project 3: React Apps (frontend) with Weather + Time + Menu Nav
 - https://menu-weather1.netlify.app/
